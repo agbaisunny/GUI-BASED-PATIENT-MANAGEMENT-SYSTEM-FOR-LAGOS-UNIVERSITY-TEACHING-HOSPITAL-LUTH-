@@ -1,0 +1,2 @@
+# GUI-BASED-PATIENT-MANAGEMENT-SYSTEM-FOR-LAGOS-UNIVERSITY-TEACHING-HOSPITAL-LUTH-
+Hospitals like LUTH manage thousands of patients monthly, making paper records slow, error-prone, and hard to retrieve. Digital Patient Management Systems organize patient data efficiently, enabling faster access, fewer mistakes, and better care, like sorting toys into labeled boxes so the right one is found instantly.
